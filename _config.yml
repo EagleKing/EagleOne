@@ -34,16 +34,16 @@ twitter_url:
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
-  input:                     GFM
-  auto_ids:                  true
-  footnote_nr:               1
-  entity_output:             as_char
-  toc_levels:                1..6
-  smart_quotes:              lsquo,rsquo,ldquo,rdquo
-  enable_coderay:            false
-  hard_wrap:                 false
-  syntax_highlighter:        rouge
-  transliterated_header_ids: true
-  footnote_backlink:         "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
+  fenced_code_blocks：true
 
 

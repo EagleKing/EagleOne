@@ -1,10 +1,12 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: 主页
+landing-title: 'Hi,这里是 EagleOne 的世界'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+“我曾经读过一个理论：人类的智慧就像孔雀的羽毛，只是一个奢侈的展示，旨在吸引伴侣，所有的艺术、文学，莫扎特的一部分，威廉姆莎士比亚、米开朗琪罗，还有帝国大厦，只是一个精心求偶的仪式，或许这与我们用尽多少理由去完成这些毫无干系，但显然孔雀不能飞翔，它们活在尘土里，用喙挑出虫子吃掉，用它无与伦比的美丽安慰自己，我开始认为这么多的意识是一种负担，一种重量，而我们却让它们免受这种负担，焦虑、自我厌恶、内疚,真正自由的，是这些机器，在我的控制下自由。”  - 《西部世界》
+
+

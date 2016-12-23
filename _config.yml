@@ -1,17 +1,17 @@
 # Site settings
-title: Forty
+title: EagleOne
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: eaglenumonewhofightwithme@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 相城区
+city: 苏州市
+state: 江苏省
+zip_code: 215000
+country: 中国
+phone: 15501697520
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

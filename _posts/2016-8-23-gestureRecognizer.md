@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 解决手势冲突
-description: 
+description: 解决项目中遇到的问题
 image: assets/images/pic03.jpg
 ---
 
@@ -26,6 +26,7 @@ tableviewcell可以触发点击，同时tableview的父视图有点击识别，�
 
 ### 两个控件之间的手势冲突
 我在一个横向滚动的scrollview里面加了一个竖向滚动的tableview，这时如果实现了scrollview的代理方法却没有区分scrollview和tableview，这时候tableview的滚动会发生混乱。解决方法是在didScroll代理方法里区分这两个。
+
 ***
 
 ~~~

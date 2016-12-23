@@ -29,12 +29,6 @@ pinterest_url:
 slack_url:
 twitter_url: 
 
-# Build settings
-markdown: redcarpet
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
 
 # Markdown 处理器
 markdown:       kramdown

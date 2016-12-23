@@ -5,7 +5,7 @@ description: 二维码扫描
 image: assets/images/pic05.jpg
 ---
 
-- `AVCaptureMetadataOutput`这个类的`rectOfInterest`属性是基于横屏的坐标(**横屏坐标原点也在左上方,但是宽高互换,横纵坐标互换**)
+- ***AVCaptureMetadataOutput***这个类的 ***rectOfInterest*** 属性是基于横屏的坐标(**横屏坐标原点也在左上方,但是宽高互换,横纵坐标互换**)
 
 - 初始化视频捕获
 
@@ -48,7 +48,7 @@ layer.frame=self.view.layer.bounds;
 
 ~~~
 
--  采集到的数据通过`AVCaptureMetadataOutputObjectsDelegate`协议里方法
+-  采集到的数据通过***AVCaptureMetadataOutputObjectsDelegate*** 协议里方法
 
 ~~~ObjC
 - (void)captureOutput:(AVCaptureOutput *)captureOutput didOutputMetadataObjects:(NSArray *)metadataObjects fromConnection:(AVCaptureConnection *)connection
